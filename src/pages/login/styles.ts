@@ -77,6 +77,7 @@ export const CriarText =  styled.p`
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
+    padding: 0 5px;
 
     color: #23DD7A;
 
